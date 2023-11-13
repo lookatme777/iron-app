@@ -1,4 +1,4 @@
-# IronApp | ** Qt **
+# IronApp | Qt
 
 ## Реализация
 
