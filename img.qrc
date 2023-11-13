@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/apple">
+        <file>apple.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/ironman">
+        <file>ironman.png</file>
+    </qresource>
+</RCC>
